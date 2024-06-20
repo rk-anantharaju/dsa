@@ -1,4 +1,7 @@
+'''
+https://leetcode.com/problems/find-missing-and-repeated-values/description/
 
+'''
 
 def findMissingAndRepeatedValues(grid):
     #  size n * n with values in the range [1, n2]. i.e all are sequential numbers 
